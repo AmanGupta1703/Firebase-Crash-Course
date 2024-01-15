@@ -39,6 +39,303 @@
 		{
 			"title": "The Hitchhiker's Guide to the Galaxy",
 			"author": "Douglas Adams"
+		},
+		{
+			"title": "Brave New World",
+			"author": "Aldous Huxley"
+		},
+		{
+			"title": "The Brothers Karamazov",
+			"author": "Fyodor Dostoevsky"
+		},
+		{
+			"title": "Anna Karenina",
+			"author": "Leo Tolstoy"
+		},
+		{
+			"title": "Moby-Dick",
+			"author": "Herman Melville"
+		},
+		{
+			"title": "Frankenstein",
+			"author": "Mary Shelley"
+		},
+		{
+			"title": "The Picture of Dorian Gray",
+			"author": "Oscar Wilde"
+		},
+		{
+			"title": "War and Peace",
+			"author": "Leo Tolstoy"
+		},
+		{
+			"title": "The Odyssey",
+			"author": "Homer"
+		},
+		{
+			"title": "Crime and Punishment",
+			"author": "Fyodor Dostoevsky"
+		},
+		{
+			"title": "Wuthering Heights",
+			"author": "Emily Brontë"
+		},
+		{
+			"title": "Great Expectations",
+			"author": "Charles Dickens"
+		},
+		{
+			"title": "The Grapes of Wrath",
+			"author": "John Steinbeck"
+		},
+		{
+			"title": "Don Quixote",
+			"author": "Miguel de Cervantes"
+		},
+		{
+			"title": "The Scarlet Letter",
+			"author": "Nathaniel Hawthorne"
+		},
+		{
+			"title": "Jane Eyre",
+			"author": "Charlotte Brontë"
+		},
+		{
+			"title": "The Iliad",
+			"author": "Homer"
+		},
+		{
+			"title": "The Count of Monte Cristo",
+			"author": "Alexandre Dumas"
+		},
+		{
+			"title": "The War of the Worlds",
+			"author": "H.G. Wells"
+		},
+		{
+			"title": "A Tale of Two Cities",
+			"author": "Charles Dickens"
+		},
+		{
+			"title": "Les Misérables",
+			"author": "Victor Hugo"
+		},
+		{
+			"title": "Dracula",
+			"author": "Bram Stoker"
+		},
+		{
+			"title": "The Three Musketeers",
+			"author": "Alexandre Dumas"
+		},
+		{
+			"title": "Sense and Sensibility",
+			"author": "Jane Austen"
+		},
+		{
+			"title": "A Farewell to Arms",
+			"author": "Ernest Hemingway"
+		},
+		{
+			"title": "The Canterbury Tales",
+			"author": "Geoffrey Chaucer"
+		},
+		{
+			"title": "The Jungle",
+			"author": "Upton Sinclair"
+		},
+		{
+			"title": "The Hunchback of Notre-Dame",
+			"author": "Victor Hugo"
+		},
+		{
+			"title": "The Time Machine",
+			"author": "H.G. Wells"
+		},
+		{
+			"title": "The Silmarillion",
+			"author": "J.R.R. Tolkien"
+		},
+		{
+			"title": "The Stranger",
+			"author": "Albert Camus"
+		},
+		{
+			"title": "Slaughterhouse-Five",
+			"author": "Kurt Vonnegut"
+		},
+		{
+			"title": "The Old Man and the Sea",
+			"author": "Ernest Hemingway"
+		},
+		{
+			"title": "Heart of Darkness",
+			"author": "Joseph Conrad"
+		},
+		{
+			"title": "The Sun Also Rises",
+			"author": "Ernest Hemingway"
+		},
+		{
+			"title": "The Shining",
+			"author": "Stephen King"
+		},
+		{
+			"title": "The Wind in the Willows",
+			"author": "Kenneth Grahame"
+		},
+		{
+			"title": "A Clockwork Orange",
+			"author": "Anthony Burgess"
+		},
+		{
+			"title": "The Road",
+			"author": "Cormac McCarthy"
+		},
+
+		{
+			"title": "The Handmaid's Tale",
+			"author": "Margaret Atwood"
+		},
+		{
+			"title": "The Bell Jar",
+			"author": "Sylvia Plath"
+		},
+		{
+			"title": "The Color Purple",
+			"author": "Alice Walker"
+		},
+		{
+			"title": "Beloved",
+			"author": "Toni Morrison"
+		},
+		{
+			"title": "One Flew Over the Cuckoo's Nest",
+			"author": "Ken Kesey"
+		},
+		{
+			"title": "The Fountainhead",
+			"author": "Ayn Rand"
+		},
+		{
+			"title": "Catch-22",
+			"author": "Joseph Heller"
+		},
+		{
+			"title": "The Sound and the Fury",
+			"author": "William Faulkner"
+		},
+		{
+			"title": "Fahrenheit 451",
+			"author": "Ray Bradbury"
+		},
+		{
+			"title": "The Handmaid's Tale",
+			"author": "Margaret Atwood"
+		},
+		{
+			"title": "The Bell Jar",
+			"author": "Sylvia Plath"
+		},
+		{
+			"title": "The Color Purple",
+			"author": "Alice Walker"
+		},
+		{
+			"title": "Beloved",
+			"author": "Toni Morrison"
+		},
+		{
+			"title": "One Flew Over the Cuckoo's Nest",
+			"author": "Ken Kesey"
+		},
+		{
+			"title": "The Fountainhead",
+			"author": "Ayn Rand"
+		},
+		{
+			"title": "Catch-22",
+			"author": "Joseph Heller"
+		},
+		{
+			"title": "The Sound and the Fury",
+			"author": "William Faulkner"
+		},
+		{
+			"title": "Fahrenheit 451",
+			"author": "Ray Bradbury"
+		},
+		{
+			"title": "The Handmaid's Tale",
+			"author": "Margaret Atwood"
+		},
+		{
+			"title": "The Bell Jar",
+			"author": "Sylvia Plath"
+		},
+		{
+			"title": "The Color Purple",
+			"author": "Alice Walker"
+		},
+		{
+			"title": "Beloved",
+			"author": "Toni Morrison"
+		},
+		{
+			"title": "One Flew Over the Cuckoo's Nest",
+			"author": "Ken Kesey"
+		},
+		{
+			"title": "The Fountainhead",
+			"author": "Ayn Rand"
+		},
+		{
+			"title": "Catch-22",
+			"author": "Joseph Heller"
+		},
+		{
+			"title": "The Sound and the Fury",
+			"author": "William Faulkner"
+		},
+		{
+			"title": "Fahrenheit 451",
+			"author": "Ray Bradbury"
+		},
+		{
+			"title": "The Handmaid's Tale",
+			"author": "Margaret Atwood"
+		},
+		{
+			"title": "The Bell Jar",
+			"author": "Sylvia Plath"
+		},
+		{
+			"title": "The Color Purple",
+			"author": "Alice Walker"
+		},
+		{
+			"title": "Beloved",
+			"author": "Toni Morrison"
+		},
+		{
+			"title": "One Flew Over the Cuckoo's Nest",
+			"author": "Ken Kesey"
+		},
+		{
+			"title": "The Fountainhead",
+			"author": "Ayn Rand"
+		},
+		{
+			"title": "Catch-22",
+			"author": "Joseph Heller"
+		},
+		{
+			"title": "The Sound and the Fury",
+			"author": "William Faulkner"
+		},
+		{
+			"title": "Fahrenheit 451",
+			"author": "Ray Bradbury"
 		}
 	]
 }
